@@ -19,3 +19,21 @@ This project is provided for educational and personal-use purposes only. By usin
 * The creator of this repository is not liable for bans, warnings, data loss, or any other consequences
 
 Use responsibly.
+
+
+## Setup Instructions
+
+### Requirements
+- Python 3.10 or newer
+- A Roblox account
+- Your Roblox `.ROBLOSECURITY` cookie
+- `requests` Python package
+- A code editor such as VS Code
+
+### Installation
+
+1. Download or clone this repository.
+
+```bash
+git clone YOUR_REPO_LINK
+cd YOUR_REPO_FOLDER
