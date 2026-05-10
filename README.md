@@ -20,6 +20,11 @@ This project is provided for educational and personal-use purposes only. By usin
 
 Use responsibly.
 
+![Preview](Output/1.png)
+
+
+![Preview](Output/2.png)
+
 
 ## Setup Instructions
 
